@@ -6,5 +6,5 @@ This repository contain the ongoing work on the development of a sailboat robot.
 Vamos continuamente adicionar os trabalhos já realizados, buscando manter os códigos deste repositórios pronto para uso. the trying to keep this repository up to date.
 
 <p align="center">
-  <img src="./images/sailboat_eletronics.png" width="400" alt="sailboat hardware system"/>
+  <img src="./images/sailboat_eletronics.pdf" width="400" alt="sailboat hardware system"/>
 </p>
