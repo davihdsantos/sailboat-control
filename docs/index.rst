@@ -30,7 +30,6 @@ Summary
    source/getting_started/index
    source/disturbances/index
    source/boats/index
-   source/scenarios/index
    source/environments/index
    source/control/index
    source/contributors/index
