@@ -44,8 +44,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'usv_sim_gazebo'
-copyright = '2018, Alexandre Amory'
+project = 'nboat'
+copyright = '2018, Davi Henrique'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -197,8 +197,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'usv_sim.tex', 'Gazebo USV Simulation',
-   'Alexandre Amory', 'manual'),
+  ('index', 'nboat.tex', 'Nboat Documentation',
+   'Davi Henrique', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -227,8 +227,8 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-  ('index', 'usv_sim.tex', 'Gazebo USV Simulation',
-   ['Alexandre Amory'], 1),
+  ('index', 'nboat.tex', 'Nboat Documentation',
+   ['Davi Henrique'], 1),
    
 ]
 
